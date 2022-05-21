@@ -25,5 +25,4 @@ pymysql - https://pypi.org/project/PyMySQL/
 
 ## Database
 
-![quiz3](https://user-images.githubusercontent.com/100691826/169644773-94ce2e78-a854-4781-9e51-02dd81f1f73a.PNG)
-
+![quiz4](https://user-images.githubusercontent.com/100691826/169644848-fa1b3457-a997-4586-b887-637aea9ab6dc.PNG)
