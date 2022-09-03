@@ -1,8 +1,8 @@
 
 # Quiz
 
-This is a basic quiz made by using python and tkinter GUI.
-On the first page fill out your details then attempt the quiz and obtain marks.
+This is a basic quiz made by using python and mySQL database. For GUI we have used tkinter.
+On the first page fill out your details then attempt the quiz and obtain marks in real time.
 Your entries will automatically get saved in the local database (primary key - roll number).
 
 
